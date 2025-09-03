@@ -1,0 +1,20 @@
+ARITHMATIC OPARATION
++,- *,%,/,//
+
+All operators are binary operators : they need 3 opearnds or values
+
+
+
+
+
+
+
+
+
+4 + 5 - 9
+here , the expression 4 + 5 is evaluated 1st
+
+2** 3 **2 
+here , 3**2 is evaluated 1st
+
+NOTE:   The way +ve 
